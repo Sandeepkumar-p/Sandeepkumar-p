@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate ServiceNow Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/sandeepkumars0" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepkumars0?logo=twitter&style=for-the-badge" alt="sandeepkumars0" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ITSM,CMDB & HRSD**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **ServiceNow projects**
 
 - 🤝 I’m looking for help with **Dynamic projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeeppindi/](https://www.linkedin.com/in/sandeeppindi/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Flow Designer**
 
 - 📫 How to reach me **pindisandeep28@gmail.com**
 
