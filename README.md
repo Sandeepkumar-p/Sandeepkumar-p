@@ -31,46 +31,44 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
- <!-- ServiceNow tools -->
-  <a href="https://www.servicenow.com/products/itsm.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/itsm.svg"
-         alt="ServiceNow ITSM" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/itsm/incident-management.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/incident.svg"
-         alt="Incident Management" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/itsm/change-management.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/change.svg"
-         alt="Change Management" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/itsm/problem-management.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/problem.svg"
-         alt="Problem Management" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/itsm/service-catalog.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/catalog.svg"
-         alt="Service Catalog" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/servicenow-platform/configuration-management-database.html"
-     target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/cmdb.svg"
-         alt="CMDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/hr-service-delivery.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/hrsd.svg"
-         alt="HRSD" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/flow-designer.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/flow-designer.svg"
-         alt="Flow Designer" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/products/platform-virtual-agent.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mattruppert/servicenow-icons/main/virtual-agent.svg"
-         alt="Virtual Agent" width="40" height="40"/>
-  </a>
+  <!-- ServiceNow modules (text badges) -->
+  <span style="display:inline-block; background-color:#0c7cba; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/itsm.html" target="_blank" style="color:white; text-decoration:none;">ServiceNow ITSM</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#05668d; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/itsm/incident-management.html" target="_blank" style="color:white; text-decoration:none;">Incident Management</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#028090; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/itsm/change-management.html" target="_blank" style="color:white; text-decoration:none;">Change Management</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#00a896; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/itsm/problem-management.html" target="_blank" style="color:white; text-decoration:none;">Problem Management</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#02c39a; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/itsm/service-catalog.html" target="_blank" style="color:white; text-decoration:none;">Service Catalog</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#6a0572; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/servicenow-platform/configuration-management-database.html" target="_blank" style="color:white; text-decoration:none;">CMDB</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#ab83a1; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/hr-service-delivery.html" target="_blank" style="color:white; text-decoration:none;">HRSD</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#5c5470; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/flow-designer.html" target="_blank" style="color:white; text-decoration:none;">Flow Designer</a>
+  </span>
+  
+  <span style="display:inline-block; background-color:#7a9e9f; color:white; padding:5px 10px; margin:3px; border-radius:8px; font-size:13px;">
+    <a href="https://www.servicenow.com/products/platform-virtual-agent.html" target="_blank" style="color:white; text-decoration:none;">Virtual Agent</a>
+  </span>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar-p&show_icons=true&locale=en&layout=compact" alt="sandeepkumar-p" /></p>
 
